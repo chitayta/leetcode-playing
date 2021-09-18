@@ -1,4 +1,4 @@
-package xyz.taycta.leetcode.playing.problems;
+package xyz.taycta.leetcode.playing.problems.easy;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

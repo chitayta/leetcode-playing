@@ -1,4 +1,4 @@
-package xyz.taycta.leetcode.playing.problems;
+package xyz.taycta.leetcode.playing.problems.easy;
 
 /**
  * https://leetcode.com/problems/reverse-integer/
